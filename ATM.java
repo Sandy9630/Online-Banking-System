@@ -88,7 +88,7 @@ class OnlineBankingSystem {
     }
 }
 
-public class ATM {
+public class Online Banking System {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         OnlineBankingSystem system = new OnlineBankingSystem();
